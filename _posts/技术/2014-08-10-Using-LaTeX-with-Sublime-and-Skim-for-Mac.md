@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 在Mac上通过Sublime、Skim编辑LaTeX
 category: 技术
@@ -54,7 +54,7 @@ LaTeX是一款权威的科技论文排版软件，不仅可以写论文，也可
 - 关闭上面这个窗口。
 
 ###全部完成，✌️
-现在，我们已经做完了所有的步骤，可以打开Sublime Text，`Command+N`新建文件并在里面编写LaTeX代码了，完成编辑之后，`Command+S`保存文件，`Command+B`编译并运行，这时就可以在Skim里面看到PDF预览了。
+现在，我们已经做完了所有的步骤，可以打开Sublime Text，`Command+N`新建文件并在里面编写LaTeX代码了，完成编辑之后，`Command+S`保存文件，`Command+B`编译并运行，这时就可以在Skim里面看到PDF。
 
 
 
