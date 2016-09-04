@@ -14,7 +14,7 @@ description:
 <li>矩阵的秩<img src="http://latex.codecogs.com/gif.latex?rank(\mathbf{W})" title="rank(\mathbf{W})" />相较于矩阵维数来说很小，并作为先验已知</li>
 
 
-我们希望恢复那些缺失的元素，这个问题就是低秩矩阵补全问题。      
+    
 
 
 ###思考过程:
