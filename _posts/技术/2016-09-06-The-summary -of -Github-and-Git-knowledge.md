@@ -7,5 +7,4 @@ keywords: Github，Git
 description: 汇总
 ---
  
-(1)[删除远程仓库中错误的版本](https://whdcumt.github.io/2016/09/06/Delete-the-wrong-version-of-re
-mote-repository.html)
+(1)[删除远程仓库中错误的版本](https://whdcumt.github.io/2016/09/06/Delete-the-wrong-version-of-remote-repository.html)
