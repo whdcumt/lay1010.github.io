@@ -10,24 +10,24 @@ description: 删除远程仓库中的错误版本
 ##遇到问题：
 如果提交到Github上的数据存在错误，那么我们如何将错误的版本删除掉呢？
 ##解决方法：
-假如你有3个commit如下：<br>
+假如你有3个commit如下：
+
 ```
-	
-    	commit 3  
+	 	commit 3  
 		commit 2
 		commit 1
 ```
 
 如果最后一次提交**commit3**提交的版本有错误， 那么执行：
-```
 
-    git reset --hard HEAD~1
+```
+	 git reset --hard HEAD~1  
 ```
 
 现在，**HEAD is now at commit 2**
 然后使用
-```
 
+```
     git push --force
 ```
 
