@@ -13,22 +13,22 @@ description: 删除远程仓库中的错误版本
 假如你有3个commit如下：
 
 ```
-	 	commit 3  
-		commit 2
-		commit 1
+commit 3  
+commit 2
+commit 1
 ```
 
 如果最后一次提交**commit3**提交的版本有错误， 那么执行：
 
 ```
-	 git reset --hard HEAD~1  
+git reset --hard HEAD~1  
 ```
 
-现在，**HEAD is now at commit 2**
+现在，*HEAD is now at commit 2*
 然后使用
 
 ```
-    git push --force
+git push --force
 ```
 
 将本次变更强行推送到远程服务器。'值得注意'的是这类的操作比较危险，比如：你的'commit3'之后别人又提交了新的'commit4',那么这位仁兄的'commit4'也一并消失了。
