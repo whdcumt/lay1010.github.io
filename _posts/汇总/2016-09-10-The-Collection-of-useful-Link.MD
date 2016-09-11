@@ -14,6 +14,7 @@ description: 汇总、总结博客资源
 (4)[Protel DXP视频教程(我要自学网)](http://www.51zxw.net/list.aspx?cid=287)<br>
 (5)[Git使用和实战(搜狐自媒体)](http://my.tv.sohu.com/pl/9102310/index.shtml)<br>
 (6)[杨洋博士全民一起VBA(精品)](http://www.yycollege.com/vba)<br>
+(7)[GDB入门(C++教程网）](http://i.youku.com/i/UMzc4MjAyOTky/videos)<br>
 ##网站论坛
 (1)[我要自学网(办公/平面/机械/工控/程序/会计)](http://www.51zxw.net/list.aspx?cid=287)<br>
 (2)[搜狐自媒体-优学教育(CacheCloud开源/redis课程/Mybatis入门实战/Hibernate初识与理解)/maven原理与使用/CORE-JAVA/Spring/前端开发-jquery/javaweb开发课程-http/javaweb开发-linux入门](http://my.tv.sohu.com/user/media/album.do?uid=10306444&page=2)<br>
@@ -23,6 +24,7 @@ description: 汇总、总结博客资源
 (6)[鑫路历程(C语言/C++语言/数据结构/MFC/Linux/单片机/嵌入式/COCOS2dxAPP开发))](http://www.baojy.com/)<br>
 (7)[杨氏在线教育(VBA/其他值得期待)](http://www.yycollege.com/)<br>
 (8)[excel学习论坛](http://www.excelhome.net/video/excel/)<br>
+(9)[GDB入门(C++教程网）/C语言/C++/Linux系统/Linux网络/大并发服务器/miniftpd/shell编程](http://i.youku.com/i/UMzc4MjAyOTky/videos)<br>
 ##博客地址
 (1)[Github建站系列教程](http://www.pchou.info/ssgithubPage/2014-07-04-build-github-blog-page-08.html)<br>
 (2)[冰蓝记忆思考的地方](http://lanbing510.info/pages/about.html)<br>
