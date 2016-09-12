@@ -8,7 +8,7 @@ description: 将MSRCR中的模糊采用递归高斯
 ---
 
 ##实现功能：
-递归高斯模糊
+单/三通道图像递归高斯模糊
 ##算法实现：
 
 ```
@@ -19,7 +19,7 @@ description: 将MSRCR中的模糊采用递归高斯
  * @param height the height of image
  * @param sigma  the Coefficient of the Gaussian
  * @param chan   the number of channels
- * @return dst   the output blured gray image
+ * @return dst   the output blured image
  */
 double * IMG_GaussBlur(double* src, double * dst, int width, int height, float sigma, int chan) /*(1)unsigned char*修改为double(2)unsigned char*&修改为double*/
 {
