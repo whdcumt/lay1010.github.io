@@ -36,6 +36,7 @@ description: 汇总、总结Github资源
 (26)[OpenCV 2 计算机视觉编程手册配套代码:opencv-2-cookbook-src](https://github.com/whdcumt/opencv-2-cookbook-src)<br>
 (27)[Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X:libfreenect](https://github.com/whdcumt/libfreenect)<br>
 (28)[OpenCV编程实例:OpenCV](https://github.com/whdcumt/OpenCV)<br>
+(29)[递归高斯模糊(C++，OpenCV):RecurisiveGau](https://github.com/whdcumt/RecurisiveGau)<br>
 ##2编程相关
 (1)[BMP图像的读取(C/Ubuntu):BmpOpen](https://github.com/whdcumt/BmpOpen)<br>
 (2)[Git指令学习1:gitlearning](https://github.com/whdcumt/gitlearning)<br>
@@ -43,9 +44,6 @@ description: 汇总、总结Github资源
 (4)[MFC实现滑动条用法：CScrollBar](https://github.com/whdcumt/CScrollBar)<br>
 (5)[Caffe](https://github.com/whdcumt/caffe)<br>
 (6)[高斯消元法解三元一次方程组](https://github.com/whdcumt/GaussianElimination)<br>
-(7)[OpenCV编程实例](https://github.com/whdcumt/ImProCv)<br>
-(8)[OpenCV编程实例](https://github.com/whdcumt/ImProCv)<br>
-(9)[OpenCV编程实例](https://github.com/whdcumt/ImProCv)<br>
 ##3笔记系列
 (1)[VBA学习笔记：vbaNote](https://github.com/whdcumt/vbaNote)<br>
 (2)[Linux学习笔记：linuxNote](https://github.com/whdcumt/linuxNote)<br>
@@ -56,7 +54,6 @@ description: 汇总、总结Github资源
 (7)[递归高斯滤波器笔记：Gaussialur](https://github.com/whdcumt/GaussianBlur)<br>
 (8)[机器视觉学习笔记：ComputerVision](https://github.com/whdcumt/ComputerVision)<br>
 (9)[mastering opencv with practical computer vision projects 翻译：MasteringOpenCVTranslation](https://github.com/whdcumt/MasteringOpenCVTranslation)<br>
-(10)[递归高斯滤波器笔记：Gaussialur](https://github.com/whdcumt/GaussianBlur)<br>
 ##4其他类型
 (1)[思路总结：ThoughtRecord](https://github.com/whdcumt/ThoughtRecord)<br>
 (2)[资源链接汇总：LinkRecord](https://github.com/whdcumt/LinkRecord)<br>
@@ -70,9 +67,6 @@ description: 汇总、总结Github资源
 (10)[学术论文汇总：PaperCollection](https://github.com/whdcumt/PaperCollection)<br>
 (11)[文件存储记录：FileRecord](https://github.com/whdcumt/FileRecord)<br>
 (12)[：siminar](https://github.com/whdcumt/siminar)<br>
-(13)[专题研讨PPT：siminar](https://github.com/whdcumt/siminar)<br>
-(14)[专题研讨PPT：siminar](https://github.com/whdcumt/siminar)<br>
-(15)[专题研讨PPT：siminar](https://github.com/whdcumt/siminar)<br>
 ##5转载汇总
 (1)[PHP中文分词/断词：jieba-php](https://github.com/whdcumt/jieba-php)<br>
 ##具备技能
