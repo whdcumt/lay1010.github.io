@@ -37,6 +37,7 @@ description: 汇总、总结Github资源
 (27)[Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X:libfreenect](https://github.com/whdcumt/libfreenect)<br>
 (28)[OpenCV编程实例:OpenCV](https://github.com/whdcumt/OpenCV)<br>
 (29)[递归高斯模糊(C++，OpenCV):RecurisiveGau](https://github.com/whdcumt/RecurisiveGau)<br>
+(30)[均值模糊(VS2010，OpenCV):ImproCv](https://github.com/whdcumt/ImProCv)<br>
 ##2编程相关
 (1)[BMP图像的读取(C/Ubuntu):BmpOpen](https://github.com/whdcumt/BmpOpen)<br>
 (2)[Git指令学习1:gitlearning](https://github.com/whdcumt/gitlearning)<br>
@@ -75,6 +76,7 @@ description: 汇总、总结Github资源
 		单/三通道FFT实现高斯模糊（C++语言/VS2010/OpenCV2.4.7/独立-1.2）
 		单/三通道时域纯高斯模糊（C语言/Ubuntu/独立-1.3）
 		百度云一级二级目录导出目录树（VBA/WIN7/独立-1.4）
+        单/三通道快速均值模糊（C++语言/VS2010/独立-1.30）
 ##读书汇总
 [豆瓣读书](https://book.douban.com/mine?icn=index-nav)<br>
        
