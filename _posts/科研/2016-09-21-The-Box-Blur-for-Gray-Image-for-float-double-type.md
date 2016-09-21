@@ -72,23 +72,4 @@ void  BoxBlur(float* Src, float *Dest, int Width, int Height, int Radius)
 }
 }
 
-
-int main(int argc, char* argv[])
-{
-	const char*imagename="E:\\InputName.bmp";  //此处需要根据要显示图片文件的实际文件位置更改
-	//从文件中读入图像
-	Mat img=imread(imagename);
-	Mat img1=imread(imagename);
-	Mat Src,Dest;
-	cvtColor(img,Src,CV_BGR2GRAY);
-	cvtColor(img1,Dest,CV_BGR2GRAY);
-	BoxBlur(Src.data,Dest.data,Src.cols,Src.rows,1,1,1); 
-	//BoxBlur(img.data,img1.data,img.cols,img.rows,3,3,1); 
-	imshow("均值模糊",img1);
-	waitKey();
-	while(1);
-	return 0;
-}
-
-
 ```
