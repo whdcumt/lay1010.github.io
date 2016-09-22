@@ -26,6 +26,7 @@ description: 汇总、总结博客资源
 (8)[excel学习论坛](http://www.excelhome.net/video/excel/)<br>
 (9)[GDB入门(C++教程网）/C语言/C++/Linux系统/Linux网络/大并发服务器/miniftpd/shell编程](http://i.youku.com/i/UMzc4MjAyOTky/videos)<br>
 (10)[百度传课](http://www.chuanke.com/course/72351176561000448_____.html)<br>
+(11)[OpenCV学习视频(云盘密码：2752)](http://pan.baidu.com/s/1skWOkGH)<br>
 ##博客地址
 (1)[Github建站系列教程](http://www.pchou.info/ssgithubPage/2014-07-04-build-github-blog-page-08.html)<br>
 (2)[冰蓝记忆思考的地方](http://lanbing510.info/pages/about.html)<br>
