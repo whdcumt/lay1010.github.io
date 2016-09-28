@@ -15,6 +15,8 @@ description: 汇总、总结博客资源
 (5)[Git使用和实战(搜狐自媒体)](http://my.tv.sohu.com/pl/9102310/index.shtml)<br>
 (6)[杨洋博士全民一起VBA(精品)](http://www.yycollege.com/vba)<br>
 (7)[GDB入门(C++教程网）](http://i.youku.com/i/UMzc4MjAyOTky/videos)<br>
+(8)[七月在线(机器学习，数据挖掘）](https://www.julyedu.com/)<br>
+
 ##网站论坛
 (1)[我要自学网(办公/平面/机械/工控/程序/会计)](http://www.51zxw.net/list.aspx?cid=287)<br>
 (2)[搜狐自媒体-优学教育(CacheCloud开源/redis课程/Mybatis入门实战/Hibernate初识与理解)/maven原理与使用/CORE-JAVA/Spring/前端开发-jquery/javaweb开发课程-http/javaweb开发-linux入门](http://my.tv.sohu.com/user/media/album.do?uid=10306444&page=2)<br>
