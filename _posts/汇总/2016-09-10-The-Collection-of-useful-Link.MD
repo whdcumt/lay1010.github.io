@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 【汇总】博客资源汇总
 category: 汇总
@@ -15,7 +15,7 @@ description: 汇总、总结博客资源
 (5)[Git使用和实战(搜狐自媒体)](http://my.tv.sohu.com/pl/9102310/index.shtml)<br>
 (6)[杨洋博士全民一起VBA(精品)](http://www.yycollege.com/vba)<br>
 (7)[GDB入门(C++教程网）](http://i.youku.com/i/UMzc4MjAyOTky/videos)<br>
-(7)[七月在线(机器学习，数据挖掘）](https://www.julyedu.com/)<br>
+(8)[七月在线(机器学习，数据挖掘）](https://www.julyedu.com/)<br>
 
 ##网站论坛
 (1)[我要自学网(办公/平面/机械/工控/程序/会计)](http://www.51zxw.net/list.aspx?cid=287)<br>
@@ -31,6 +31,7 @@ description: 汇总、总结博客资源
 (11)[OpenCV学习视频(云盘密码：2752)](http://pan.baidu.com/s/1skWOkGH)<br>
 (12)[OpenCV中文网站](http://wiki.opencv.org.cn/index.php/首页)<br>
 (13)[OpenCV中文论坛](http://www.opencv.org.cn/)<br>
+(14)[牛客网(IT笔试平台)](http://www.nowcoder.com/)<br>
 ##博客地址
 (1)[Github建站系列教程](http://www.pchou.info/ssgithubPage/2014-07-04-build-github-blog-page-08.html)<br>
 (2)[冰蓝记忆思考的地方](http://lanbing510.info/pages/about.html)<br>
