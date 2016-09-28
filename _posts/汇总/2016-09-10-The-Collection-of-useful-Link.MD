@@ -29,6 +29,8 @@ description: 汇总、总结博客资源
 (11)[OpenCV学习视频(云盘密码：2752)](http://pan.baidu.com/s/1skWOkGH)<br>
 (12)[OpenCV中文网站](http://wiki.opencv.org.cn/index.php/首页)<br>
 (13)[OpenCV中文论坛](http://www.opencv.org.cn/)<br>
+(14)[牛客网(IT笔试平台)](http://www.nowcoder.com/)<br>
+(15)[考试资料网(考试题库)(图像处理)](http://www.ppkao.com/)<br>
 ##博客地址
 (1)[Github建站系列教程](http://www.pchou.info/ssgithubPage/2014-07-04-build-github-blog-page-08.html)<br>
 (2)[冰蓝记忆思考的地方](http://lanbing510.info/pages/about.html)<br>
