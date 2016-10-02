@@ -38,4 +38,13 @@ description: 汇总、总结博客资源
 (2)[冰蓝记忆思考的地方](http://lanbing510.info/pages/about.html)<br>
 (3)[Segmentfault](https://segmentfault.com/a/1190000000406011)<br>
 (4)[coding](https://coding.net/u/coding/project?page=2)<br>
+##源码搜索
+(1)[源码搜搜](http://www.codesoso.com/default.aspx)<br>
+(2)[CodeForce](https://www.codeforge.cn/)<br>
+(3)[Github](https://github.com//)<br>
+
+
+
+
+
 
