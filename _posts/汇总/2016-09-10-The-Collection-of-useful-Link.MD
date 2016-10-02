@@ -16,6 +16,7 @@ description: 汇总、总结博客资源
 (6)[杨洋博士全民一起VBA(精品)](http://www.yycollege.com/vba)<br>
 (7)[GDB入门(C++教程网）](http://i.youku.com/i/UMzc4MjAyOTky/videos)<br>
 (8)[七月在线(机器学习，数据挖掘）](https://www.julyedu.com/)<br>
+(9)[万门大学（语言学习，初高中课程）](http://www.wanmen.org/#/)<br>
 
 ##网站论坛
 (1)[我要自学网(办公/平面/机械/工控/程序/会计)](http://www.51zxw.net/list.aspx?cid=287)<br>
