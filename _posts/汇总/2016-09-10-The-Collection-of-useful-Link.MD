@@ -34,6 +34,7 @@ description: 汇总、总结博客资源
 (13)[OpenCV中文论坛](http://www.opencv.org.cn/)<br>
 (14)[牛客网(IT笔试平台)](http://www.nowcoder.com/)<br>
 (15)[考试资料网(考试题库)(图像处理)](http://www.ppkao.com/)<br>
+(16)[搜狐自媒体-C3程序猿(STL/C语言/C++/贪吃蛇/俄罗斯方块/学生信息管理系统/纸牌/数据雨/公交助手)](http://my.tv.sohu.com/user/media/album.do?uid=273051416&page=1)<br>
 ##博客地址
 (1)[Github建站系列教程](http://www.pchou.info/ssgithubPage/2014-07-04-build-github-blog-page-08.html)<br>
 (2)[冰蓝记忆思考的地方](http://lanbing510.info/pages/about.html)<br>
