@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【汇总】博客资源汇总
+title: 【汇总】黄金链接汇总
 category: 汇总
 tags: 汇总  
 keywords: 汇总，总结
-description: 汇总、总结博客资源
+description: 汇总、黄金链接
 ---
 
 ##幼儿小学初中教育
