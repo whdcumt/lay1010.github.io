@@ -17,6 +17,8 @@ description: 汇总、总结博客资源
 (7)[GDB入门(C++教程网）](http://i.youku.com/i/UMzc4MjAyOTky/videos)<br>
 (8)[七月在线(机器学习，数据挖掘）](https://www.julyedu.com/)<br>
 (9)[万门大学（语言学习，初高中课程）](http://www.wanmen.org/#/)<br>
+(10)[爱酷学习网(绑微博/算法和数据结构/PhoneGap视频教程/Swift/百度地图开发javascript/韩顺平spring/libGDX视频教程/Java)/新浪微博开发/项目开发视频/C#/Unity3D/WPF/Cocos2D-X/jQuery EasyUI/HTML5/Hibernate/MySql/Nutch/Lucene/Struts2/ThinkPHP/Smarty3/Hadoop/PHP/UIScrollView/Java/Python/Django](http://www.wanmen.org/#/)重点推荐：算法和数据结构<br>
+
 
 ##网站论坛
 (1)[我要自学网(办公/平面/机械/工控/程序/会计)](http://www.51zxw.net/list.aspx?cid=287)<br>
@@ -35,6 +37,7 @@ description: 汇总、总结博客资源
 (14)[牛客网(IT笔试平台)](http://www.nowcoder.com/)<br>
 (15)[考试资料网(考试题库)(图像处理)](http://www.ppkao.com/)<br>
 (16)[搜狐自媒体-C3程序猿(STL/C语言/C++/贪吃蛇/俄罗斯方块/学生信息管理系统/纸牌/数据雨/公交助手)](http://my.tv.sohu.com/user/media/album.do?uid=273051416&page=1)<br>
+(17)[MOOC学院(重点推荐)](http://mooc.guokr.com/course/)<br>
 ##博客地址
 (1)[Github建站系列教程](http://www.pchou.info/ssgithubPage/2014-07-04-build-github-blog-page-08.html)<br>
 (2)[冰蓝记忆思考的地方](http://lanbing510.info/pages/about.html)<br>
@@ -44,6 +47,8 @@ description: 汇总、总结博客资源
 (1)[源码搜搜](http://www.codesoso.com/default.aspx)<br>
 (2)[CodeForce](https://www.codeforge.cn/)<br>
 (3)[Github](https://github.com//)<br>
+##格式规范
+(1)每个链接里面包含的内容最好都写出来，方便直接查找，不用点进去查看里面的内容<br>
 
 
 
