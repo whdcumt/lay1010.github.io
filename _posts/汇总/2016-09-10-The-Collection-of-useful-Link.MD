@@ -38,6 +38,10 @@ description: 汇总、总结博客资源
 (15)[考试资料网(考试题库)(图像处理)](http://www.ppkao.com/)<br>
 (16)[搜狐自媒体-C3程序猿(STL/C语言/C++/贪吃蛇/俄罗斯方块/学生信息管理系统/纸牌/数据雨/公交助手)](http://my.tv.sohu.com/user/media/album.do?uid=273051416&page=1)<br>
 (17)[MOOC学院(重点推荐)](http://mooc.guokr.com/course/)<br>
+(18)[网易云课堂](http://study.163.com/)<br>
+(19)[百度传课](http://www.chuanke.com/)<br>
+(20)[星火视频网](http://www.21edu8.com/)<br>
+
 ##博客地址
 (1)[Github建站系列教程](http://www.pchou.info/ssgithubPage/2014-07-04-build-github-blog-page-08.html)<br>
 (2)[冰蓝记忆思考的地方](http://lanbing510.info/pages/about.html)<br>
