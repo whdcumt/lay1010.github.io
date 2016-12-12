@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 【汇总】博客资源汇总
-category: 汇总
-tags: 汇总  
-keywords: 汇总，总结
+title: 【汇总】视频汇总
+category: 视频
+tags: 视频汇总  
+keywords: 视频，汇总
 description: 汇总、总结博客资源
 ---
 
