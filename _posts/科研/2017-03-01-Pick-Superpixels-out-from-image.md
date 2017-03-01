@@ -68,6 +68,7 @@ end
 %**************************************以上为主程序***************************
 
 ```
-
+	原图和超像素分割结果
 ![处理结果](http://a1.qpic.cn/psb?/V10ctZwO1IoAMt/vw7nDYN9WcZiYS4n3x5q2qYCbTawAVQJZvrr8sPREhQ!/b/dG4BAAAAAAAA&bo=YAUAAgAAAAAFB0M!&rf=viewer_4)
+		部分超像素分割结果（图像大小与原图像一致）
 ![部分分割结果](http://a1.qpic.cn/psb?/V10ctZwO1IoAMt/1KUSPfvC6dFzowIOh8Y8mu*aQ0v03**mEwhWQz6oddg!/b/dG4BAAAAAAAA&bo=DhsAAgAAAAAFADQ!&rf=viewer_4)
