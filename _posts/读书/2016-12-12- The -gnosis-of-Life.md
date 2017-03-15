@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【读书感悟】学习的积累过程
-category: 感悟
+category: 读书
 tags: 学习感悟 
 keywords: 高效能，读书笔记
 description: 
